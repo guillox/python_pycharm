@@ -7,7 +7,8 @@ b. la posición actual en que se ubicará el objeto (verificar que no se ubique 
 alto).
 c. la opción para moverlo: 4 para mover izq, 6 para mover der, 2 para bajar, 8 para subir, 0 terminar.
 Aclaración: En todo movimiento se debe verificar que no se caiga del escenario y
-mostrar la posición actual luego de cada movimiento."""
+mostrar la posición actual luego de cada movimiento.
+"""
 
 # a. dos números que representan las dimensiones: ancho y alto.
 ancho = int(raw_input('ingrese el ancho del escenario:'))
