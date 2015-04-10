@@ -15,7 +15,7 @@ while cant < 10:
         suma += num
         print num
     num += 1
-print 'la suma de los primero numero impares es:'suma
+print 'la suma de los primero numero impares es:',suma
 
 
 
