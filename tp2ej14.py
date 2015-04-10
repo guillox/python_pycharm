@@ -21,7 +21,6 @@ datos = {"captured_at": "2015-03-27T12:10:00Z", "temperature": 17, "humidity": 7
 
 datosesp = {}
 lista = datos.keys()
-print lista
 
 datosesp['velocidad del viento'] = datos[lista[0]]
 datosesp['uv'] = datos[lista[1]]
